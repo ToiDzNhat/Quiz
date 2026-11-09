@@ -1,0 +1,8 @@
+{
+  "name": "quiz-web",
+  "version": "1.0.0",
+  "description": "Website quiz giao diện tối chạy bằng Node.js",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.19.2" }
+}
